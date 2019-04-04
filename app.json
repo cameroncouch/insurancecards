@@ -1,0 +1,5 @@
+{
+    "name": "my-insurance-cards",
+    "description": "a demonstration of a health/dental/vision insurance card wallet",
+    "image": "heroku/nodejs"
+}
